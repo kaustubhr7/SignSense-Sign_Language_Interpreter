@@ -1,1 +1,1 @@
-# Sign_Language_Detector
+# SignSense-Sign_Language_Interpreter
