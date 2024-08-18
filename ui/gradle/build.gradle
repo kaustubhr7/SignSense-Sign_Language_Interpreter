@@ -1,0 +1,11 @@
+dependencies {
+    // CameraX for camera access
+    implementation 'androidx.camera:camera-core:1.1.0'
+    implementation 'androidx.camera:camera-camera2:1.1.0'
+    implementation 'androidx.camera:camera-lifecycle:1.1.0'
+    implementation 'androidx.camera:camera-view:1.1.0'
+
+    // TensorFlow Lite for hand detection
+    implementation 'org.tensorflow:tensorflow-lite:2.10.0'
+    implementation 'org.tensorflow:tensorflow-lite-gpu:2.10.0'  // Optional, for GPU acceleration
+}
