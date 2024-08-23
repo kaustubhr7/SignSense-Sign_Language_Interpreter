@@ -7,7 +7,7 @@ Welcome to **SignSense**! 🎉 Our mission is to bridge the communication gap be
 ## Objectives 🎯
 
 1. **Create Benchmark Datasets** 📸: Develop and curate datasets using smartphone cameras to enhance the accuracy and effectiveness of sign language recognition.
-2. **Develop a Web Application** 🌐: Build a user-friendly web app that performs real-time sign language recognition and translation.
+2. **Develop an Application** 🌐: Build a user-friendly app that performs real-time sign language recognition and translation.
 3. **Achieve High Accuracy** 🏆: Exceed the accuracy of current sign language recognition solutions and provide reliable results.
 
 ## Problem Statement 📝
