@@ -34,7 +34,11 @@ Sign language communicates through hand gestures, facial expressions, and body m
 
 See **SignSense** in action! Watch our demo video to get a sneak peek of how it works:
 
-- [🌟 Watch the Video Demo 🌟](#)
+<div class="row" align="center">
+  <div class="column">
+    <img src=".github/assets/images/Sign Language Detection DEMO Video (Just App).gif?raw=true" style =" height=250px width =400px">
+  </div>
+</div>
 
 ## Architectural Diagram 🏗️
 
